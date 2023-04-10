@@ -1,0 +1,25 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+
+.cabecalho{
+    background-color: PowderBlue;
+    width: 100%;
+    height: 100px;
+    padding-top: 0px;
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+
+.rodape{
+    background-color: aliceblue;
+    width: 100%;
+    height: 50px;
+    padding-top: 0px;
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}

@@ -1,0 +1,59 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+
+.formulario{
+    background-color: rgb(251, 248, 248);
+    padding-left: 20px;
+    padding-top: 10px;
+    display: flex;
+}
+
+input{
+    width: 250px;
+}
+
+.box1{
+    display: flex;
+    flex-direction: row;
+}
+
+.box2{
+    display: flex;
+    flex-direction: row;
+    padding-top: 10px;
+}
+
+input .endereco{
+    width: 200px;
+}
+
+.box3{
+    display: flex;
+    flex-direction: row;
+    padding-top: 10px;
+}
+
+.rg{
+    padding-left: 10px;
+
+}
+
+.matricula{
+    padding-left: 10px;
+}
+
+.telefone{
+    padding-left: 10px;
+}
+
+.btn{
+    background-color: blue;
+    border-radius: 40px;
+    color: white;
+    width: 70px;
+    height:30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
