@@ -5,4 +5,4 @@
 
 <p>Depois foram criados templates bases usando Grid, Flexbox e Float, além de um layout de formulário com Bootstrap para reforçar o conteúdo de forma simples.<p>
 
-## Tentar colocar as outras avividades desenvolvidas na disciplina PSW1 no Github
+
